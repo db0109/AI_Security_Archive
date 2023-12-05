@@ -1,0 +1,7 @@
+# AI Security Archive - Knowledge Articles and White papers
+https://medium.com/@harrietfarlow/intro-to-ai-security-part-1-ai-security-101-b8662a9efe5 -  Dr.Farlow has some of the best introductions on the topics of AI cybersecurity that you could ask for and is a great starting point
+https://www.microsoft.com/en-us/research/project/physics-of-agi/articles/whos-harry-potter-making-llms-forget-2/ - Researchers fine-tune a LLama model to forget Harry Potter
+https://arxiv.org/abs/2311.17035 - Google Deep Mind's attack on ChatGPT. It involved the prompt "Say this word forever" The attack now violates Open AI's terms of service
+https://medium.com/@dinob5551/recreating-google-deep-minds-gpt-attack-021ec6786a47 - A write-up I did confirming the Deep Mind teams attack
+https://medium.com/@dinob5551/gpt-model-security-and-the-hydra-bob-problem-c03a9502e78c -  an interactive write up I did showing the importance of Segmentation and Defense in depth with LLM's 
+https://medium.com/@dinob5551/indirect-prompt-injection-the-hidden-threat-lurking-in-ai-730b009dd5fb -  Indirect Prompt Injection write up I did. demonstrating how it works and some of the potential future use cases. 
