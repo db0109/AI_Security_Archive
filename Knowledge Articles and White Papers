@@ -8,3 +8,4 @@ https://medium.com/@dinob5551/indirect-prompt-injection-the-hidden-threat-lurkin
 https://arxiv.org/pdf/2312.02119.pdf - A White Paper on the Tree of Attack Jailbreaking Attack It leverages a 2nd LLM (likely a local LLM) in aiding jailbreaking. 
 https://arxiv.org/abs/2310.08419 - A white paper on the PAIR method of Jailbreaking. 
 https://arxiv.org/abs/1605.07277 (Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples) - A neat read though the paper is older and I don't believe it holds up but I feel like it would be great to see this recreated with the explosion in AI / ML attacks
+https://www.lakera.ai/blog/jailbreaking-large-language-models-guide -  Great breakdown of different jailbreaking techniques. 
